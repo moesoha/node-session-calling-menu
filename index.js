@@ -1,5 +1,5 @@
 /*=============================
-Session Polling Helper
+Session Calling Menu
 -------------------------------
 Tianhai InfoTech
 	http://tianhai.info/
