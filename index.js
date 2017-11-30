@@ -7,6 +7,4 @@ Soha Jin
 	https://sohaj.in/
 =============================*/
 
-module.exports={
-	Poller: require('./lib/poller')
-}
+module.exports=require('./lib/poller');

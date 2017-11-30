@@ -1,10 +1,14 @@
 {
-  "name": "session-polling-helper",
+  "name": "session-calling-menu",
   "version": "1.0.0",
-  "description": "",
+  "description": "A calling menu module for sessions. Designed for WeChat Official Account at first.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moesoha/node-session-calling-menu.git"
   },
   "author": "Soha Jin <soha@lohu.info>",
   "license": "MIT"
